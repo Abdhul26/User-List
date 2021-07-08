@@ -1,0 +1,31 @@
+input,
+select,
+h4 {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    /* padding: 10px; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.gender {
+    display: flex;
+    flex-direction: row;
+}
+
+.city {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    border: 1px solid black;
+}
+
+.submit {
+    justify-content: center;
+    align-items: center;
+
+}
