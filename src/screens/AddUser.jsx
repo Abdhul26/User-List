@@ -1,5 +1,4 @@
 import MainScreen from "../components/MainScreen";
-import { Card } from "react-bootstrap";
 import { useForm } from "react-hook-form";
 import "./adduser.css";
 
